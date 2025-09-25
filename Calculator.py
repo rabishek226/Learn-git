@@ -4,3 +4,5 @@ B = int(input("Enter a Number : "))
 print(A+B)
 #Subtraction
 print(A-B)
+# Division
+print(A/B)
