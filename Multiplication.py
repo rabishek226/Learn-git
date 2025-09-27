@@ -1,5 +1,5 @@
 # Multiplication
 A = int(input("Enter a number : "))
-D = int(input("Enter a Number  : "))
+B = int(input("Enter a Number  : "))
 
-print(A*D)
+print(A*B)
